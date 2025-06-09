@@ -29,4 +29,4 @@ terraform destroy -auto-approve
     - your-keypair-name with your existing AWS EC2 key pair
     - your-unique-s3-bucket-name with a globally unique name (or it will error) 
 
-# Replace `<your-username>/<your-repo>` in `user_data.sh`
+#### Replace `<your-username>/<your-repo>` in `user_data.sh`
