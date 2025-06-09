@@ -1,5 +1,0 @@
-*.pem
-*.env
-.env
-*.log
-config/*.env
