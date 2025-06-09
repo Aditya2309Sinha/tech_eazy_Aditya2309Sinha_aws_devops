@@ -18,14 +18,14 @@ This project automates the deployment of a Java application to an AWS EC2 instan
 
 - Provide:
 
-  -AWS Access Key ID
-  -AWS Secret Access Key
-  -Default region (e.g., ap-south-1)
-  -Output format: json
+  - AWS Access Key ID
+  - AWS Secret Access Key
+  - Default region (e.g., ap-south-1)
+  - Output format: json
 
 -Change:
-  -KEY_NAME=
-  -SECURITY_GROUP=
-  -REPO_URL=https://github.com/<your-username>/<your-repo>.git
-  -APP_DIR=<your-repo-name>
+  - KEY_NAME=
+  - SECURITY_GROUP=
+  - REPO_URL=https://github.com/<your-username>/<your-repo>.git
+  - APP_DIR=<your-repo-name>
 
