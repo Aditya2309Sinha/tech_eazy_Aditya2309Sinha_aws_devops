@@ -16,9 +16,9 @@ This project automates the provisioning of an EC2 instance on AWS using Terrafor
 - AWS IAM user with EC2 and S3 permissions
 
 ### Run Terraform
-terraform init
-terraform plan
-terraform apply -auto-approve
+- terraform init
+- terraform plan
+- terraform apply -auto-approve
 
 
 ### Destroy Resources
