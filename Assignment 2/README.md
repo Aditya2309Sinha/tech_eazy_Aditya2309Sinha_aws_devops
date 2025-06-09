@@ -25,8 +25,8 @@ This project automates the provisioning of an EC2 instance on AWS using Terrafor
 terraform destroy -auto-approve
 
 ### Edit terraform.tfvars:
-  ## Replace:
-    - your-keypair-name with your existing AWS EC2 key pair
-    - your-unique-s3-bucket-name with a globally unique name (or it will error) 
+    #### Replace:
+      - your-keypair-name with your existing AWS EC2 key pair
+      - your-unique-s3-bucket-name with a globally unique name (or it will error) 
 
 #### Replace `<your-username>/<your-repo>` in `user_data.sh`
